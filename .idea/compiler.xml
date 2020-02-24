@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="03_annotation_componentScan_nameGenerator" />
+        <module name="01_annotation_configuration" />
+        <module name="02_annotation_conponentScan" />
+        <module name="05_annotation_componentScan_typeFilter" />
+        <module name="04_annotation_componentScan_resourcePartten" />
+        <module name="Annotation_Configuration" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="06_annotation_componentScan_typeFilter_bridging" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
